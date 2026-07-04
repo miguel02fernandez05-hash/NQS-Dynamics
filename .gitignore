@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated exact/reference data
+*.npz
+*.npy
+
+# Generated plots/results
+Plots*/
+plots/
+results/
+checkpoints/
+
+# Local caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
