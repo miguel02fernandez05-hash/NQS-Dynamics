@@ -3,7 +3,7 @@ Python code on Neural Quantum States (NQS) for quantum dynamics, using Stochasti
 
 ## Thesis information
 
-This repository contains the code developed for the master's thesis:
+This repository contains the code developed for the master's thesis [(link)](https://drive.google.com/file/d/1rBTj4wbZbZKxzWs4yQXELzNvlVeTjopw/view?usp=sharing):
 
 **Time-Dependent Neural Quantum States for Quantum Dynamics**
 
